@@ -1,0 +1,5 @@
+pipfile
+pipfile.lock
+package-lock.json
+frontend/node_modules
+backend/backend/secret.py
