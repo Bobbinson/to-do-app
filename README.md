@@ -1,5 +1,8 @@
 # To Do Application
 
+- pipenv shell
+- npm start (front end)
+- manage.py runserver (back end)
 
 # Contains:
 
@@ -7,10 +10,10 @@
 - Backend: Python/Django
 - Frontend: React/Axios
 - Axios for communicating with the backend API.
+- Unit tests for back end and front end done.
 
 # To Implement:
 
-- Write some unit tests for frontend/backend.
 - Play around with Bootstrap features to make the UI more user-friendly.
 - Add some useful functionalities such as an UNDO feature.
 
